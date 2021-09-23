@@ -1,0 +1,16 @@
+1.
+	print(os.environ)
+2.
+	QUERY_STRING
+3.
+	HTTP_USER_AGENT		
+4.
+	Using cgi field storage from the cgi module
+5.
+	Set-Cookie:key=value
+6.
+	Cookie:name=value
+7.
+	Storing short term data about a specific user. Allowing for more dynamic and interactive web apps.
+8.
+	https://github.com/Chase-Warwick/cgi-lab 
